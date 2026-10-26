@@ -25,7 +25,7 @@ export interface StackGroup {
 
 export const profile = {
   name: 'Nicolás Zambrano Abril',
-  nameLines: ['NICOLÁS', 'ZAMBRANO'],
+  nameLines: ['NICOLAS', 'ZAMBRANO'],
   handle: 'nzambranoab',
   eyebrow: 'Software Engineering · Universidad El Bosque',
   about: [
